@@ -1,5 +1,3 @@
-<div align="center"><img src="assets/header.png" width="840"></div>
-
 ## Introduction
 
 This repo contains the official PyTorch implementation of Background Discriminative Knowledge Minimizing Regulator for Few-Shot Object Detection.
